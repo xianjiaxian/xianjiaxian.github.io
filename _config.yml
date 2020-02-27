@@ -3,4 +3,7 @@ logo: /assets/img/logo.png
 description: Home Page
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-minimal
+
+# 查看：gem 'jekyll-seo-tag'
+plugins:
+    - jekyll-seo-tag
